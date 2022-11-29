@@ -2,8 +2,6 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
-gem "rspec", "~> 3.12"
-
-gem "capybara", "~> 3.38"
+gem "rspec"
+gem "sinatra", "~> 2.0.0.beta2"
+gem "rack-test"
